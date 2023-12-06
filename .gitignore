@@ -1,1 +1,6 @@
 Debug
+*.log
+*.snap
+.metadata/.ide.log
+f107baseio/.settings/language.settings.xml
+/.metadata
